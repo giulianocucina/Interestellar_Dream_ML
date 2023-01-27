@@ -1,5 +1,5 @@
 # ***Interestellar Dream ML***
-(https://github.com/giulianocucina/Interestellar_Dream_ML/tree/main/Interestellar%20Project/image/cover.png)
+![cover](https://github.com/giulianocucina/Interestellar_Dream_ML/tree/main/Interestellar%20Project/image/cover.png)
 ## ***Why this subject:***
 
 This subject was chosen because, as representatives of humanity, we have to help our species to colonize new horizons to expand throughout the galaxy. Our objective is to define the best candidates according to certain characteristics.
